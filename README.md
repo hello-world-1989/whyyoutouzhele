@@ -11,3 +11,4 @@ BGLCKIVXUMFYVASCASDKT7RHT7L7IYX76
 # [2023年3月份下载](https://github.com/hello-world-1989/whyyoutouzhele/raw/main/2023/202303.zip)
 # [2023年4月份下载](https://github.com/hello-world-1989/whyyoutouzhele/raw/main/2023/202304.zip)
 # [2023年5月份下载](https://github.com/hello-world-1989/whyyoutouzhele/raw/main/2023/202305.zip)
+# [2023年6月份下载](https://github.com/hello-world-1989/whyyoutouzhele/raw/main/2023/202306.zip)
