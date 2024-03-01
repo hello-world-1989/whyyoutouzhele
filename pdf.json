@@ -1,0 +1,133 @@
+[
+          {
+            id: 202402,
+            year: 2024,
+            description: '2024年二月份下载',
+            link: 'whyyoutouzhele/2024/202402.zip',
+          },
+          {
+            id: 20240101,
+            year: 2024,
+            description: '2024年一月份第一部分下载',
+            link: 'whyyoutouzhele/2024/202401p1.zip',
+          },
+          {
+            id: 20240102,
+            year: 2024,
+            description: '2024年一月份第二部分下载',
+            link: 'whyyoutouzhele/2024/202401p2.zip',
+          },
+
+          {
+            id: 20231201,
+            year: 2023,
+            description: '2023年十二月份第一部分下载',
+            link: 'whyyoutouzhele/2023/202312p1.zip',
+          },
+          {
+            id: 20231202,
+            year: 2023,
+            description: '2023年十二月份第二部分下载',
+            link: 'whyyoutouzhele/2023/202312p2.zip',
+          },
+
+          {
+            id: 20231101,
+            year: 2023,
+            description: '2023年十一月份第一部分下载',
+            link: 'whyyoutouzhele/2023/202311p1.zip',
+          },
+          {
+            id: 20231102,
+            year: 2023,
+            description: '2023年十一月份第二部分下载',
+            link: 'whyyoutouzhele/2023/202311p2.zip',
+          },
+          {
+            id: 20231001,
+            year: 2023,
+            description: '2023年十月份第一部分下载',
+            link: 'whyyoutouzhele/2023/202310p1.zip',
+          },
+          {
+            id: 20231002,
+            year: 2023,
+            description: '2023年十月份第二部分下载',
+            link: 'whyyoutouzhele/2023/202310p2.zip',
+          },
+
+          {
+            id: 20230901,
+            year: 2023,
+            description: '2023年九月份第一部分下载',
+            link: 'whyyoutouzhele/2023/202309p1.zip',
+          },
+          {
+            id: 20230902,
+            year: 2023,
+            description: '2023年九月份第二部分下载',
+            link: 'whyyoutouzhele/2023/202309p2.zip',
+          },
+
+          {
+            id: 202308,
+            year: 2023,
+            description: '2023年八月份下载',
+            link: 'whyyoutouzhele/2023/202308.zip',
+          },
+          {
+            id: 202307,
+            year: 2023,
+            description: '2023年七月份下载',
+            link: 'whyyoutouzhele/2023/202307.zip',
+          },
+          {
+            id: 202306,
+            year: 2023,
+            description: '2023年六月份下载',
+            link: 'whyyoutouzhele/2023/202306.zip',
+          },
+          {
+            id: 202305,
+            year: 2023,
+            description: '2023年五月份下载',
+            link: 'whyyoutouzhele/2023/202305.zip',
+          },
+          {
+            id: 202304,
+            year: 2023,
+            description: '2023年四月份下载',
+            link: 'whyyoutouzhele/2023/202304.zip',
+          },
+          {
+            id: 202303,
+            year: 2023,
+            description: '2023年三月份下载',
+            link: 'whyyoutouzhele/2023/202303.zip',
+          },
+          {
+            id: 202302,
+            year: 2023,
+            description: '2023年二月份下载',
+            link: 'whyyoutouzhele/2023/202302.zip',
+          },
+          {
+            id: 202301,
+            year: 2023,
+            description: '2023年一月份下载',
+            link: 'whyyoutouzhele/2023/202301.zip',
+          },
+
+          {
+            id: 202212,
+            year: 2022,
+            description: '2022年十二月份下载',
+            link: 'whyyoutouzhele/2022/202212.zip',
+          },
+          {
+            id: 202211,
+            year: 2022,
+            description: '2022年十一月份下载',
+            link: 'whyyoutouzhele/2022/202211.zip',
+          },
+        ];
