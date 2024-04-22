@@ -1,6 +1,8 @@
 # whyyoutouzhele
 李老师不是你老师 推文 离线PDF版本, 方便国内不能翻墙朋友阅读
 
+https://github.com/hello-world-1989/whyyoutouzhele/releases/
+
 ### 欢迎开发者进行二次加工， json数据中 images 和 videos 前缀 https://github.com/hello-world-1989/resource
 ### createdDate 为北京时间
 ### 注意 去掉images 和 videos的最后一个, 逗号
