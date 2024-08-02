@@ -11,6 +11,7 @@ https://github.com/hello-world-1989/whyyoutouzhele/releases/
 <br />
 <br />
 
+# [2024年7月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202407/whyyoutouzhele.zip)
 # [2024年6月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202406/whyyoutouzhele.zip)
 # [2024年5月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202405/whyyoutouzhele.zip)
 # [2024年4月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202404/whyyoutouzhele.zip)
