@@ -1,0 +1,23 @@
+{
+  "date": "202407",
+  "data": [
+    { "keyword": "食用油罐车混运事件", "frequency": 5 },
+    { "keyword": "偶发事件", "frequency": 2 },
+    { "keyword": "长沙五一广场", "frequency": 2 },
+    { "keyword": "改装车大会", "frequency": 1 },
+    { "keyword": "农夫山泉事件", "frequency": 1 },
+    { "keyword": "安全演习", "frequency": 1 },
+    { "keyword": "毕业典礼", "frequency": 1 },
+    { "keyword": "巴黎奥运会", "frequency": 1 },
+    { "keyword": "消委会", "frequency": 1 },
+    { "keyword": "校外文化活动", "frequency": 1 },
+    { "keyword": "哲学社会科学活动", "frequency": 1 },
+    { "keyword": "劳东燕", "frequency": 1 },
+    { "keyword": "全体会议公报", "frequency": 1 },
+    { "keyword": "专题会议", "frequency": 1 },
+    { "keyword": "网上宣传", "frequency": 1 },
+    { "keyword": "2024中国汽车论坛", "frequency": 1 },
+    { "keyword": "商户们集体游行", "frequency": 1 },
+    { "keyword": "律师案", "frequency": 1 }
+  ]
+}

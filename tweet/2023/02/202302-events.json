@@ -1,0 +1,11 @@
+{
+  "date": "202302",
+  "data": [
+    { "keyword": "医保改革", "frequency": 5 },
+    { "keyword": "火灾", "frequency": 3 },
+    { "keyword": "网传事件", "frequency": 2 },
+    { "keyword": "官方新闻发布会", "frequency": 1 },
+    { "keyword": "安委会", "frequency": 1 },
+    { "keyword": "风波", "frequency": 1 }
+  ]
+}

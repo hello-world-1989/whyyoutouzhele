@@ -1,0 +1,25 @@
+{
+  "date": "202303",
+  "data": [
+    { "keyword": "户晨风", "frequency": 4 },
+    { "keyword": "阳光开朗孔乙己", "frequency": 3 },
+    { "keyword": "发布会", "frequency": 2 },
+    { "keyword": "国际剑联女子重剑世界杯", "frequency": 2 },
+    { "keyword": "俄乌冲突一周年启示栏目 对比俄乌战争", "frequency": 1 },
+    { "keyword": "誓师大会", "frequency": 1 },
+    { "keyword": "院校招聘会", "frequency": 1 },
+    { "keyword": "北京奥运会", "frequency": 1 },
+    { "keyword": "民生事件", "frequency": 1 },
+    { "keyword": "国歌歌词会", "frequency": 1 },
+    { "keyword": "新闻发布会", "frequency": 1 },
+    { "keyword": "光州事件", "frequency": 1 },
+    { "keyword": "美国国会听证会", "frequency": 1 },
+    { "keyword": "运动会", "frequency": 1 },
+    {
+      "keyword": "共青团促进大学生就业行动",
+      "frequency": 1
+    },
+    { "keyword": "仪式", "frequency": 1 }
+  ]
+}
+

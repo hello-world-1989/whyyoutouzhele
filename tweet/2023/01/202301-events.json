@@ -1,0 +1,16 @@
+{
+  "date": "202301",
+  "data": [
+    { "keyword": "公共事件", "frequency": 2 },
+    { "keyword": "胡鑫宇", "frequency": 2 },
+    { "keyword": "广州一宝马冲撞人群", "frequency": 2 },
+    { "keyword": "核酸检测", "frequency": 3 },
+    { "keyword": "世界杯", "frequency": 1 },
+    { "keyword": "交通事故", "frequency": 1 },
+    { "keyword": "枪击事件", "frequency": 1 },
+    { "keyword": "紧急会议", "frequency": 1 },
+    { "keyword": "演唱会", "frequency": 1 },
+    { "keyword": "表彰大会", "frequency": 1 },
+    { "keyword": "电影会", "frequency": 1 }
+  ]
+}

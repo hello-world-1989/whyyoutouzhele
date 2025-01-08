@@ -1,0 +1,19 @@
+{
+  "date": "202411",
+  "data": [
+    { "keyword": "远洋捕捞", "frequency": 3 },
+    { "keyword": "黄陂路", "frequency": 3 },
+    { "keyword": "李佩霞", "frequency": 3 },
+    { "keyword": "珠海体育中心", "frequency": 1 },
+    { "keyword": "汽车冲撞行人事件", "frequency": 1 },
+    { "keyword": "业主大会", "frequency": 1 },
+    { "keyword": "大学生骑行", "frequency": 1 },
+    { "keyword": "社会事件", "frequency": 1 },
+    { "keyword": "BBQ派对", "frequency": 1 },
+    { "keyword": "国际记者会", "frequency": 1 },
+    { "keyword": "为什么重大事故的官方通报基本都是35人", "frequency": 1 },
+    { "keyword": "国际辩论俱乐部会议", "frequency": 1 },
+    { "keyword": "防御战", "frequency": 1 },
+    { "keyword": "十堰市中学小学生健康大课间比赛", "frequency": 1 }
+  ]
+}

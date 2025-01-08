@@ -1,0 +1,21 @@
+{
+  "date": "202404",
+  "data": [
+    { "keyword": "行人事件", "frequency": 2 },
+    { "keyword": "猫一杯", "frequency": 2 },
+    { "keyword": "国内虐猫事件", "frequency": 1 },
+    { "keyword": "安吉大麓青年音乐节", "frequency": 1 },
+    { "keyword": "半程马拉松", "frequency": 1 },
+    { "keyword": "李克强", "frequency": 1 },
+    { "keyword": "司机停运罢工活动", "frequency": 1 },
+    { "keyword": "杭州亚运会", "frequency": 1 },
+    { "keyword": "新车发布会", "frequency": 1 },
+    { "keyword": "M7起火事件", "frequency": 1 },
+    { "keyword": "新闻发布会", "frequency": 1 },
+    { "keyword": "组织罢工", "frequency": 1 },
+    { "keyword": "停运罢工", "frequency": 1 },
+    { "keyword": "太极拳比赛", "frequency": 1 },
+    { "keyword": "攻心战", "frequency": 1 },
+    { "keyword": "何杰", "frequency": 1 }
+  ]
+}

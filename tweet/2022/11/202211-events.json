@@ -1,0 +1,20 @@
+{
+  "date": "202211",
+  "data": [
+    { "keyword": "乌鲁木齐", "frequency": 10 },
+    { "keyword": "白纸", "frequency": 5 },
+    { "keyword": "动态清零", "frequency": 1 },
+    { "keyword": "清狗们", "frequency": 4 },
+    { "keyword": "赛博游行", "frequency": 1 },
+    { "keyword": "群体事件", "frequency": 1 },
+    { "keyword": "跪地事件", "frequency": 1 },
+    { "keyword": "传播四通桥事件", "frequency": 1 },
+    { "keyword": "抗议活动", "frequency": 1 },
+    { "keyword": "发布会", "frequency": 1 },
+    { "keyword": "游击战", "frequency": 1 },
+    { "keyword": "游行示威", "frequency": 1 },
+    { "keyword": "接力赛", "frequency": 1 },
+    { "keyword": "乌鲁木齐疫情防控新闻发布会", "frequency": 1 },
+    { "keyword": "罢工", "frequency": 1 }
+  ]
+}

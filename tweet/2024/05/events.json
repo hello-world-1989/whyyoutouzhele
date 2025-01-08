@@ -1,0 +1,27 @@
+{
+  "date": "202405",
+  "data": [
+    { "keyword": "事故", "frequency": 8 },
+    { "keyword": "顾梓曦", "frequency": 8 },
+    { "keyword": "香飘飘", "frequency": 3 },
+    { "keyword": "M7事件", "frequency": 1 },
+    { "keyword": "五反斗争'' 中央网", "frequency": 1 },
+    { "keyword": "梅州高速塌方事件", "frequency": 1 },
+    { "keyword": "跳楼事件", "frequency": 1 },
+    { "keyword": "兰山区业主委员会", "frequency": 1 },
+    { "keyword": "梅大高速塌方事故", "frequency": 1 },
+    { "keyword": "夏巢川", "frequency": 1 },
+    { "keyword": "跳桥自杀事件", "frequency": 1 },
+    { "keyword": "南通大巴车事故", "frequency": 1 },
+    { "keyword": "大巴事故", "frequency": 1 },
+    { "keyword": "游行", "frequency": 1 },
+    { "keyword": "哈洽会", "frequency": 1 },
+    { "keyword": "黑心村委会", "frequency": 1 },
+    { "keyword": "听证会", "frequency": 1 },
+    { "keyword": "汶川大地震", "frequency": 1 },
+    { "keyword": "百万人大游行", "frequency": 1 },
+    { "keyword": "中超联赛", "frequency": 1 },
+    { "keyword": "湖南长沙液化气送气工人们集体罢工", "frequency": 1 },
+    { "keyword": "南通支云比赛", "frequency": 1 }
+  ]
+}

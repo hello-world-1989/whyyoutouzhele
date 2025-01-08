@@ -1,0 +1,19 @@
+{
+  "date": "202306",
+  "data": [
+    { "keyword": "鼠头鸭脖", "frequency": 7 },
+    { "keyword": "比赛", "frequency": 5 },
+    { "keyword": "游行", "frequency": 2 },
+    { "keyword": "天价烧烤", "frequency": 3 },
+    { "keyword": "联合国第九次消除妇女歧视公约履行审议会议", "frequency": 1 },
+    { "keyword": "泄题风波", "frequency": 1 },
+    { "keyword": "事件案件", "frequency": 1 },
+    { "keyword": "教师干部大会", "frequency": 1 },
+    { "keyword": "重庆铜梁龙比赛", "frequency": 1 },
+    { "keyword": "发布会", "frequency": 1 },
+    { "keyword": "亚运会赛事", "frequency": 1 },
+    { "keyword": "示威活动", "frequency": 1 },
+    { "keyword": "中国足协杯", "frequency": 1 },
+    { "keyword": "毕业典礼", "frequency": 1 }
+  ]
+}

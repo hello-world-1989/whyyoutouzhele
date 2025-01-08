@@ -1,0 +1,26 @@
+{
+  "date": "202410",
+  "data": [
+    { "keyword": "袭击事件", "frequency": 3 },
+    { "keyword": "万圣节", "frequency": 3 },
+    { "keyword": "网瘾学校", "frequency": 3 },
+    { "keyword": "新闻发布会", "frequency": 2 },
+    { "keyword": "A股", "frequency": 1 },
+    { "keyword": "上海爷叔", "frequency": 1 },
+    { "keyword": "中国国庆大游行", "frequency": 1 },
+    { "keyword": "人民政治协商会议全国委员会", "frequency": 1 },
+    { "keyword": "中华街国庆游行", "frequency": 1 },
+    { "keyword": "存款事件", "frequency": 1 },
+    { "keyword": "四通桥事件", "frequency": 1 },
+    { "keyword": "泰安撞人事件", "frequency": 1 },
+    { "keyword": "诺贝尔委员会", "frequency": 1 },
+    { "keyword": "中华民国113年国庆晚会", "frequency": 1 },
+    { "keyword": "受害者团体协议会", "frequency": 1 },
+    { "keyword": "第39届印尼贸易博览会", "frequency": 1 },
+    { "keyword": "发改委发布会", "frequency": 1 },
+    { "keyword": "业主委员会", "frequency": 1 },
+    { "keyword": "哥伦比亚大学体育管理会议", "frequency": 1 },
+    { "keyword": "亚洲峰会", "frequency": 1 },
+    { "keyword": "女团决赛战", "frequency": 1 }
+  ]
+}

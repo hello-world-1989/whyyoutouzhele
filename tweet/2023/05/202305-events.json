@@ -1,0 +1,23 @@
+{
+  "date": "202305",
+  "data": [
+    { "keyword": "砍人事件", "frequency": 2 },
+    { "keyword": "十八赢", "frequency": 2 },
+    { "keyword": "新闻发布会", "frequency": 2 },
+    { "keyword": "国际公共卫生安全事件", "frequency": 1 },
+    { "keyword": "骑手罢工", "frequency": 1 },
+    { "keyword": "浙江政务行政处罚公开事件", "frequency": 1 },
+    { "keyword": "通报 事件", "frequency": 1 },
+    { "keyword": "虐猫事件", "frequency": 1 },
+    { "keyword": "员工集体罢工事件", "frequency": 1 },
+    { "keyword": "2023湾区当代艺术联展", "frequency": 1 },
+    { "keyword": "线下脱口秀", "frequency": 1 },
+    { "keyword": "攻防战", "frequency": 1 },
+    { "keyword": "直播事故", "frequency": 1 },
+    { "keyword": "杭州亚运会", "frequency": 1 },
+    { "keyword": "风波", "frequency": 1 },
+    { "keyword": "防钓鱼演练", "frequency": 1 },
+    { "keyword": "Major总决赛", "frequency": 1 },
+    { "keyword": "演唱会", "frequency": 1 }
+  ]
+}

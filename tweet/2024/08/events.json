@@ -1,0 +1,25 @@
+{
+  "date": "202408",
+  "data": [
+    { "keyword": "陈志伟", "frequency": 12 },
+    { "keyword": "倒卖尸体", "frequency": 10 },
+    { "keyword": "奥运会", "frequency": 5 },
+    { "keyword": "方艺融", "frequency": 5 },
+    { "keyword": "铁头", "frequency": 5 },
+    { "keyword": "国家网络身份认证", "frequency": 5 },
+    { "keyword": "联合国安理会", "frequency": 1 },
+    { "keyword": "苏州工业园区商务局局长事件", "frequency": 1 },
+    { "keyword": "张教官", "frequency": 1 },
+    { "keyword": "巴黎奥运会", "frequency": 1 },
+    { "keyword": "美日国防外交2+2会议", "frequency": 1 },
+    { "keyword": "中国游泳运动员药检事件", "frequency": 1 },
+    { "keyword": "羽毛球男子双打比赛", "frequency": 1 },
+    { "keyword": "巴黎奥运会击剑女子个人重剑金牌赛", "frequency": 1 },
+    { "keyword": "巴黎奥运会男子100米自由泳决赛", "frequency": 1 },
+    { "keyword": "极氪新车发布会", "frequency": 1 },
+    { "keyword": "秀节目专家研讨会", "frequency": 1 },
+    { "keyword": "奥运会女子100米短跑比赛赛", "frequency": 1 },
+    { "keyword": "巴黎奥运会霹雳舞比赛", "frequency": 1 },
+    { "keyword": "冲撞行人", "frequency": 1 }
+  ]
+}

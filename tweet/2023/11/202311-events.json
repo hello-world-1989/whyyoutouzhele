@@ -1,0 +1,32 @@
+{
+  "date": "202311",
+  "data": [
+    { "keyword": "白纸运动", "frequency": 11 },
+    { "keyword": "全国反动态清零", "frequency": 11 },
+    { "keyword": "血槽姐", "frequency": 3 },
+    { "keyword": "亮亮丽君", "frequency": 1 },
+    { "keyword": "魏朝广", "frequency": 3 },
+    { "keyword": "杨妞花", "frequency": 3 },
+    { "keyword": "排放核废水事件", "frequency": 1 },
+    { "keyword": "升旗仪式", "frequency": 1 },
+    { "keyword": "深圳龙华大浪发生随机砍人事件", "frequency": 1 },
+    { "keyword": "中山二院集体患癌事件", "frequency": 1 },
+    { "keyword": "天津助学金事件", "frequency": 1 },
+    { "keyword": "佳木斯体育馆坍塌", "frequency": 1 },
+    { "keyword": "火灾事件", "frequency": 1 },
+    { "keyword": "群殴事件", "frequency": 1 },
+    { "keyword": "卫生事件", "frequency": 1 },
+    { "keyword": "上海中学生学农教育活动", "frequency": 1 },
+    { "keyword": "主题活动", "frequency": 1 },
+    { "keyword": "裸奔事件", "frequency": 1 },
+    { "keyword": "线下会议", "frequency": 1 },
+
+    { "keyword": "千人蛋炒饭大赛", "frequency": 1 },
+    { "keyword": "浙江把蛋炒饭大赛", "frequency": 1 },
+    { "keyword": "预选赛", "frequency": 1 },
+    { "keyword": "世界杯", "frequency": 1 },
+    { "keyword": "英雄联盟世界总决赛", "frequency": 1 },
+    { "keyword": "宝亿鞋厂工人们集体罢工", "frequency": 1 },
+    { "keyword": "亚冠小组赛", "frequency": 1 }
+  ]
+}

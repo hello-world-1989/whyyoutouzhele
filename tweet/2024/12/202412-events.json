@@ -1,0 +1,24 @@
+{
+  "date": "202412",
+  "data": [
+    { "keyword": "优衣库新疆棉事件", "frequency": 1 },
+    { "keyword": "瓷事件", "frequency": 1 },
+    { "keyword": "擦边事件", "frequency": 1 },
+    { "keyword": "行人事件", "frequency": 1 },
+    { "keyword": "大食会", "frequency": 1 },
+    { "keyword": "委员会", "frequency": 1 },
+    { "keyword": "闭门会议", "frequency": 1 },
+    { "keyword": "示威活动", "frequency": 1 },
+    { "keyword": "全体会议", "frequency": 1 },
+    { "keyword": "招待会", "frequency": 1 },
+    { "keyword": "内阁会议", "frequency": 1 },
+    { "keyword": "国务会议", "frequency": 1 },
+    { "keyword": "新闻发布会", "frequency": 1 },
+    { "keyword": "紧急会议", "frequency": 1 },
+    { "keyword": "虐猫事件", "frequency": 1 },
+    { "keyword": "策略会", "frequency": 1 },
+    { "keyword": "爆炸", "frequency": 1 },
+    { "keyword": "会议", "frequency": 1 },
+    { "keyword": "老兵宣讲", "frequency": 1 }
+  ]
+}
