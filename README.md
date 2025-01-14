@@ -7,7 +7,7 @@ https://github.com/hello-world-1989/whyyoutouzhele/releases/
 ### createdDate 为北京时间
 ### 注意 去掉images 和 videos的最后一个, 逗号
 
-### events文件为 当月发生的事件， keywords为 当月出现的词语 频率， 从低到高， whyyoutouzhele 中包含每月发生的新闻 浏览量最多的30条推文
+### events文件为 当月发生的事件， keywords为 当月出现的词语 频率， 从高到低， whyyoutouzhele 每月浏览量最多的30条推文
 
 ### views为查看数， likes为点赞数， replies为回复数， originVideos为X推特视频链接， 其中views likes replies数量未必准确， 随着时间推移， 会增加
 
