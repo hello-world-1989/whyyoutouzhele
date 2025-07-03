@@ -1,5 +1,33 @@
 [
   {
+    "id": 202506,
+    "year": 2025,
+    "description": "202506",
+    "link1": "/download-pdf/202506/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202506/whyyoutouzhele.zip"
+  },
+  {
+    "id": 202505,
+    "year": 2025,
+    "description": "202505",
+    "link1": "/download-pdf/202505/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202505/whyyoutouzhele.zip"
+  },
+  {
+    "id": 202504,
+    "year": 2025,
+    "description": "202504",
+    "link1": "/download-pdf/202504/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202504/whyyoutouzhele.zip"
+  },
+  {
+    "id": 202503,
+    "year": 2025,
+    "description": "202503",
+    "link1": "/download-pdf/202503/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202503/whyyoutouzhele.zip"
+  },
+  {
     "id": 202502,
     "year": 2025,
     "description": "202502",
