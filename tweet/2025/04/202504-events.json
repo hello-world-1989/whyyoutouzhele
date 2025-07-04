@@ -1,0 +1,105 @@
+{
+  "date": "202504",
+  "data": [
+    {
+      "keyword": "事件",
+      "frequency": 5
+    },
+    {
+      "keyword": "演习",
+      "frequency": 4
+    },
+    {
+      "keyword": "MEME大赛",
+      "frequency": 3
+    },
+    {
+      "keyword": "小米su7事故事件",
+      "frequency": 2
+    },
+    {
+      "keyword": "小米SU7事故事件",
+      "frequency": 2
+    },
+    {
+      "keyword": "解放军演习",
+      "frequency": 2
+    },
+    {
+      "keyword": "附近海域活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "居委会",
+      "frequency": 1
+    },
+    {
+      "keyword": "记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "外交部记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "车祸",
+      "frequency": 1
+    },
+    {
+      "keyword": "爆燃事故",
+      "frequency": 1
+    },
+    {
+      "keyword": "新闻发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "小米发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "全体股东大会",
+      "frequency": 1
+    },
+    {
+      "keyword": "招聘会",
+      "frequency": 1
+    },
+    {
+      "keyword": "示威活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "内阁会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "白宫活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "集会",
+      "frequency": 1
+    },
+    {
+      "keyword": "西方教官会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "维稳会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "幽默新闻创新赛",
+      "frequency": 1
+    },
+    {
+      "keyword": "总统选举",
+      "frequency": 1
+    },
+    {
+      "keyword": "上合峰会",
+      "frequency": 1
+    }
+  ]
+}

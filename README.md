@@ -7,6 +7,24 @@ https://github.com/hello-world-1989/whyyoutouzhele/releases/
 ### createdDate 为北京时间
 ### 注意 去掉images 和 videos的最后一个, 逗号
 
+### 如果未更新，请查看repo https://github.com/hello-world-1989/json 包含最新数据
+
+### events文件为 当月发生的事件， keywords为 当月出现的词语 频率， 从高到低， whyyoutouzhele 每月浏览量最多的30条推文
+
+### views为查看数， likes为点赞数， replies为回复数， originVideos为X推特视频链接， 其中views likes replies数量未必准确， 随着时间推移， 会增加
+
+<br />
+<br />
+<br />
+
+
+# [2025年6月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202506/whyyoutouzhele.zip)
+# [2025年5月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202505/whyyoutouzhele.zip)
+# [2025年4月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202504/whyyoutouzhele.zip)
+# [2025年3月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202503/whyyoutouzhele.zip)
+# [2025年2月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202502/whyyoutouzhele.zip)
+# [2025年1月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202501/whyyoutouzhele.zip)
+
 <br />
 <br />
 <br />

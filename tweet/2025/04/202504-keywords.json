@@ -1,0 +1,1394 @@
+[
+  {
+    "keyword": "中国",
+    "frequency": 71
+  },
+  {
+    "keyword": "关税",
+    "frequency": 58
+  },
+  {
+    "keyword": "2024年",
+    "frequency": 45
+  },
+  {
+    "keyword": "网友",
+    "frequency": 34
+  },
+  {
+    "keyword": "男子",
+    "frequency": 27
+  },
+  {
+    "keyword": "总统",
+    "frequency": 26
+  },
+  {
+    "keyword": "商品",
+    "frequency": 25
+  },
+  {
+    "keyword": "2023年",
+    "frequency": 21
+  },
+  {
+    "keyword": "300万",
+    "frequency": 18
+  },
+  {
+    "keyword": "公司",
+    "frequency": 17
+  },
+  {
+    "keyword": "2022年",
+    "frequency": 17
+  },
+  {
+    "keyword": "美国",
+    "frequency": 16
+  },
+  {
+    "keyword": "国家",
+    "frequency": 16
+  },
+  {
+    "keyword": "女子",
+    "frequency": 15
+  },
+  {
+    "keyword": "2025年",
+    "frequency": 15
+  },
+  {
+    "keyword": "2万",
+    "frequency": 15
+  },
+  {
+    "keyword": "小米",
+    "frequency": 14
+  },
+  {
+    "keyword": "问题",
+    "frequency": 14
+  },
+  {
+    "keyword": "2020年",
+    "frequency": 14
+  },
+  {
+    "keyword": "视频",
+    "frequency": 13
+  },
+  {
+    "keyword": "2019年",
+    "frequency": 12
+  },
+  {
+    "keyword": "30万",
+    "frequency": 12
+  },
+  {
+    "keyword": "20万",
+    "frequency": 12
+  },
+  {
+    "keyword": "百万",
+    "frequency": 12
+  },
+  {
+    "keyword": "家属",
+    "frequency": 11
+  },
+  {
+    "keyword": "警方",
+    "frequency": 11
+  },
+  {
+    "keyword": "2021年",
+    "frequency": 11
+  },
+  {
+    "keyword": "学生",
+    "frequency": 10
+  },
+  {
+    "keyword": "员工",
+    "frequency": 10
+  },
+  {
+    "keyword": "2000亿",
+    "frequency": 10
+  },
+  {
+    "keyword": "6万",
+    "frequency": 10
+  },
+  {
+    "keyword": "150万",
+    "frequency": 10
+  },
+  {
+    "keyword": "200万",
+    "frequency": 10
+  },
+  {
+    "keyword": "千万",
+    "frequency": 10
+  },
+  {
+    "keyword": "军演",
+    "frequency": 9
+  },
+  {
+    "keyword": "工厂",
+    "frequency": 9
+  },
+  {
+    "keyword": "情况",
+    "frequency": 9
+  },
+  {
+    "keyword": "同学",
+    "frequency": 9
+  },
+  {
+    "keyword": "3万",
+    "frequency": 9
+  },
+  {
+    "keyword": "二十",
+    "frequency": 9
+  },
+  {
+    "keyword": "https://t.co/",
+    "frequency": 8
+  },
+  {
+    "keyword": "孩子",
+    "frequency": 8
+  },
+  {
+    "keyword": "经济",
+    "frequency": 8
+  },
+  {
+    "keyword": "消息",
+    "frequency": 8
+  },
+  {
+    "keyword": "官员",
+    "frequency": 8
+  },
+  {
+    "keyword": "2018年",
+    "frequency": 8
+  },
+  {
+    "keyword": "2017年",
+    "frequency": 8
+  },
+  {
+    "keyword": "120万",
+    "frequency": 8
+  },
+  {
+    "keyword": "5000万",
+    "frequency": 8
+  },
+  {
+    "keyword": "1千",
+    "frequency": 8
+  },
+  {
+    "keyword": "https://t.co/XzzeBBI2tl",
+    "frequency": 7
+  },
+  {
+    "keyword": "工作",
+    "frequency": 7
+  },
+  {
+    "keyword": "工会",
+    "frequency": 7
+  },
+  {
+    "keyword": "解放军",
+    "frequency": 7
+  },
+  {
+    "keyword": "派出所",
+    "frequency": 7
+  },
+  {
+    "keyword": "项目",
+    "frequency": 7
+  },
+  {
+    "keyword": "世界",
+    "frequency": 7
+  },
+  {
+    "keyword": "评论",
+    "frequency": 7
+  },
+  {
+    "keyword": "全球",
+    "frequency": 7
+  },
+  {
+    "keyword": "民众",
+    "frequency": 7
+  },
+  {
+    "keyword": "方面",
+    "frequency": 7
+  },
+  {
+    "keyword": "税率",
+    "frequency": 7
+  },
+  {
+    "keyword": "五千",
+    "frequency": 7
+  },
+  {
+    "keyword": "女儿",
+    "frequency": 6
+  },
+  {
+    "keyword": "员工投稿",
+    "frequency": 6
+  },
+  {
+    "keyword": "总关税",
+    "frequency": 6
+  },
+  {
+    "keyword": "社交平台",
+    "frequency": 6
+  },
+  {
+    "keyword": "大陆",
+    "frequency": 6
+  },
+  {
+    "keyword": "当地",
+    "frequency": 6
+  },
+  {
+    "keyword": "政策",
+    "frequency": 6
+  },
+  {
+    "keyword": "代价",
+    "frequency": 6
+  },
+  {
+    "keyword": "学校",
+    "frequency": 6
+  },
+  {
+    "keyword": "老板",
+    "frequency": 6
+  },
+  {
+    "keyword": "社区",
+    "frequency": 6
+  },
+  {
+    "keyword": "文章",
+    "frequency": 6
+  },
+  {
+    "keyword": "协议",
+    "frequency": 6
+  },
+  {
+    "keyword": "压力",
+    "frequency": 6
+  },
+  {
+    "keyword": "影片",
+    "frequency": 6
+  },
+  {
+    "keyword": "方式",
+    "frequency": 6
+  },
+  {
+    "keyword": "声明",
+    "frequency": 6
+  },
+  {
+    "keyword": "父亲",
+    "frequency": 6
+  },
+  {
+    "keyword": "群里",
+    "frequency": 6
+  },
+  {
+    "keyword": "2015年",
+    "frequency": 6
+  },
+  {
+    "keyword": "10万",
+    "frequency": 6
+  },
+  {
+    "keyword": "500亿",
+    "frequency": 6
+  },
+  {
+    "keyword": "1120亿",
+    "frequency": 6
+  },
+  {
+    "keyword": "50万",
+    "frequency": 6
+  },
+  {
+    "keyword": "100万",
+    "frequency": 6
+  },
+  {
+    "keyword": "5000亿",
+    "frequency": 6
+  },
+  {
+    "keyword": "1150万",
+    "frequency": 6
+  },
+  {
+    "keyword": "14万",
+    "frequency": 6
+  },
+  {
+    "keyword": "1万",
+    "frequency": 6
+  },
+  {
+    "keyword": "800万",
+    "frequency": 6
+  },
+  {
+    "keyword": "2千",
+    "frequency": 6
+  },
+  {
+    "keyword": "4千",
+    "frequency": 6
+  },
+  {
+    "keyword": "500万",
+    "frequency": 6
+  },
+  {
+    "keyword": "15.9万",
+    "frequency": 6
+  },
+  {
+    "keyword": "46亿",
+    "frequency": 6
+  },
+  {
+    "keyword": "十万",
+    "frequency": 6
+  },
+  {
+    "keyword": "国内",
+    "frequency": 5
+  },
+  {
+    "keyword": "国防部",
+    "frequency": 5
+  },
+  {
+    "keyword": "合同",
+    "frequency": 5
+  },
+  {
+    "keyword": "事故",
+    "frequency": 5
+  },
+  {
+    "keyword": "原则",
+    "frequency": 5
+  },
+  {
+    "keyword": "行动",
+    "frequency": 5
+  },
+  {
+    "keyword": "市场",
+    "frequency": 5
+  },
+  {
+    "keyword": "特朗普政府",
+    "frequency": 5
+  },
+  {
+    "keyword": "商务部",
+    "frequency": 5
+  },
+  {
+    "keyword": "律师",
+    "frequency": 5
+  },
+  {
+    "keyword": "警察",
+    "frequency": 5
+  },
+  {
+    "keyword": "人们",
+    "frequency": 5
+  },
+  {
+    "keyword": "进口商品",
+    "frequency": 5
+  },
+  {
+    "keyword": "手机",
+    "frequency": 5
+  },
+  {
+    "keyword": "鸡蛋",
+    "frequency": 5
+  },
+  {
+    "keyword": "地方",
+    "frequency": 5
+  },
+  {
+    "keyword": "$LI",
+    "frequency": 5
+  },
+  {
+    "keyword": "外面",
+    "frequency": 5
+  },
+  {
+    "keyword": "车辆",
+    "frequency": 5
+  },
+  {
+    "keyword": "百分点",
+    "frequency": 5
+  },
+  {
+    "keyword": "责任",
+    "frequency": 5
+  },
+  {
+    "keyword": "方案",
+    "frequency": 5
+  },
+  {
+    "keyword": "2012年",
+    "frequency": 5
+  },
+  {
+    "keyword": "2008年",
+    "frequency": 5
+  },
+  {
+    "keyword": "3000元",
+    "frequency": 5
+  },
+  {
+    "keyword": "500元",
+    "frequency": 5
+  },
+  {
+    "keyword": "5万",
+    "frequency": 5
+  },
+  {
+    "keyword": "拍摄者",
+    "frequency": 4
+  },
+  {
+    "keyword": "发言人",
+    "frequency": 4
+  },
+  {
+    "keyword": "赖总统",
+    "frequency": 4
+  },
+  {
+    "keyword": "新增关税",
+    "frequency": 4
+  },
+  {
+    "keyword": "消息人士",
+    "frequency": 4
+  },
+  {
+    "keyword": "当局",
+    "frequency": 4
+  },
+  {
+    "keyword": "洪明",
+    "frequency": 4
+  },
+  {
+    "keyword": "影响",
+    "frequency": 4
+  },
+  {
+    "keyword": "中国市场",
+    "frequency": 4
+  },
+  {
+    "keyword": "政府",
+    "frequency": 4
+  },
+  {
+    "keyword": "车门",
+    "frequency": 4
+  },
+  {
+    "keyword": "现场",
+    "frequency": 4
+  },
+  {
+    "keyword": "基础",
+    "frequency": 4
+  },
+  {
+    "keyword": "食物",
+    "frequency": 4
+  },
+  {
+    "keyword": "儿子",
+    "frequency": 4
+  },
+  {
+    "keyword": "工人们",
+    "frequency": 4
+  },
+  {
+    "keyword": "军机",
+    "frequency": 4
+  },
+  {
+    "keyword": "关税政策",
+    "frequency": 4
+  },
+  {
+    "keyword": "移民署",
+    "frequency": 4
+  },
+  {
+    "keyword": "行为",
+    "frequency": 4
+  },
+  {
+    "keyword": "负责人",
+    "frequency": 4
+  },
+  {
+    "keyword": "工作人员",
+    "frequency": 4
+  },
+  {
+    "keyword": "企业",
+    "frequency": 4
+  },
+  {
+    "keyword": "记者",
+    "frequency": 4
+  },
+  {
+    "keyword": "事情",
+    "frequency": 4
+  },
+  {
+    "keyword": "东部战区",
+    "frequency": 4
+  },
+  {
+    "keyword": "居民",
+    "frequency": 4
+  },
+  {
+    "keyword": "贸易战",
+    "frequency": 4
+  },
+  {
+    "keyword": "实验室",
+    "frequency": 4
+  },
+  {
+    "keyword": "财政部",
+    "frequency": 4
+  },
+  {
+    "keyword": "博主",
+    "frequency": 4
+  },
+  {
+    "keyword": "电话",
+    "frequency": 4
+  },
+  {
+    "keyword": "价格",
+    "frequency": 4
+  },
+  {
+    "keyword": "敌人",
+    "frequency": 4
+  },
+  {
+    "keyword": "粉丝",
+    "frequency": 4
+  },
+  {
+    "keyword": "经历",
+    "frequency": 4
+  },
+  {
+    "keyword": "规模",
+    "frequency": 4
+  },
+  {
+    "keyword": "收入",
+    "frequency": 4
+  },
+  {
+    "keyword": "母亲",
+    "frequency": 4
+  },
+  {
+    "keyword": "微博",
+    "frequency": 4
+  },
+  {
+    "keyword": "政治改革",
+    "frequency": 4
+  },
+  {
+    "keyword": "物资",
+    "frequency": 4
+  },
+  {
+    "keyword": "里面",
+    "frequency": 4
+  },
+  {
+    "keyword": "作品",
+    "frequency": 4
+  },
+  {
+    "keyword": "台媒",
+    "frequency": 4
+  },
+  {
+    "keyword": "标准",
+    "frequency": 4
+  },
+  {
+    "keyword": "价值",
+    "frequency": 4
+  },
+  {
+    "keyword": "订单",
+    "frequency": 4
+  },
+  {
+    "keyword": "区域",
+    "frequency": 4
+  },
+  {
+    "keyword": "贸易伙伴",
+    "frequency": 4
+  },
+  {
+    "keyword": "百姓",
+    "frequency": 4
+  },
+  {
+    "keyword": "党支部书记",
+    "frequency": 4
+  },
+  {
+    "keyword": "辅警",
+    "frequency": 4
+  },
+  {
+    "keyword": "气球",
+    "frequency": 4
+  },
+  {
+    "keyword": "跌幅",
+    "frequency": 4
+  },
+  {
+    "keyword": "命令",
+    "frequency": 4
+  },
+  {
+    "keyword": "Luigi",
+    "frequency": 4
+  },
+  {
+    "keyword": "张伟",
+    "frequency": 4
+  },
+  {
+    "keyword": "党支部",
+    "frequency": 4
+  },
+  {
+    "keyword": "本质",
+    "frequency": 4
+  },
+  {
+    "keyword": "2014年",
+    "frequency": 4
+  },
+  {
+    "keyword": "2016年",
+    "frequency": 4
+  },
+  {
+    "keyword": "20万元",
+    "frequency": 4
+  },
+  {
+    "keyword": "20元",
+    "frequency": 4
+  },
+  {
+    "keyword": "100元",
+    "frequency": 4
+  },
+  {
+    "keyword": "千万元",
+    "frequency": 4
+  },
+  {
+    "keyword": "5亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "4000亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "38万",
+    "frequency": 4
+  },
+  {
+    "keyword": "310亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "1300亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "3.78亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "12亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "1️",
+    "frequency": 4
+  },
+  {
+    "keyword": "2️",
+    "frequency": 4
+  },
+  {
+    "keyword": "3️",
+    "frequency": 4
+  },
+  {
+    "keyword": "3200万",
+    "frequency": 4
+  },
+  {
+    "keyword": "40万",
+    "frequency": 4
+  },
+  {
+    "keyword": "1,000",
+    "frequency": 4
+  },
+  {
+    "keyword": "2亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "880亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "220亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "1.7万",
+    "frequency": 4
+  },
+  {
+    "keyword": "55亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "70万",
+    "frequency": 4
+  },
+  {
+    "keyword": "3,000",
+    "frequency": 4
+  },
+  {
+    "keyword": "1.9万",
+    "frequency": 4
+  },
+  {
+    "keyword": "18.5万",
+    "frequency": 4
+  },
+  {
+    "keyword": "3千",
+    "frequency": 4
+  },
+  {
+    "keyword": "1200万",
+    "frequency": 4
+  },
+  {
+    "keyword": "181万",
+    "frequency": 4
+  },
+  {
+    "keyword": "915亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "749.4万",
+    "frequency": 4
+  },
+  {
+    "keyword": "1916.23万",
+    "frequency": 4
+  },
+  {
+    "keyword": "550万",
+    "frequency": 4
+  },
+  {
+    "keyword": "1000万",
+    "frequency": 4
+  },
+  {
+    "keyword": "14亿",
+    "frequency": 4
+  },
+  {
+    "keyword": "中共",
+    "frequency": 3
+  },
+  {
+    "keyword": "中央",
+    "frequency": 3
+  },
+  {
+    "keyword": "受害人",
+    "frequency": 3
+  },
+  {
+    "keyword": "俄军",
+    "frequency": 3
+  },
+  {
+    "keyword": "国台",
+    "frequency": 3
+  },
+  {
+    "keyword": "总理",
+    "frequency": 3
+  },
+  {
+    "keyword": "关系",
+    "frequency": 3
+  },
+  {
+    "keyword": "中学",
+    "frequency": 3
+  },
+  {
+    "keyword": "申请人",
+    "frequency": 3
+  },
+  {
+    "keyword": "汽车",
+    "frequency": 3
+  },
+  {
+    "keyword": "红色",
+    "frequency": 3
+  },
+  {
+    "keyword": "中美",
+    "frequency": 3
+  },
+  {
+    "keyword": "加征关税",
+    "frequency": 3
+  },
+  {
+    "keyword": "人权",
+    "frequency": 3
+  },
+  {
+    "keyword": "慈善事业",
+    "frequency": 3
+  },
+  {
+    "keyword": "东西",
+    "frequency": 3
+  },
+  {
+    "keyword": "工人",
+    "frequency": 3
+  },
+  {
+    "keyword": "领导人",
+    "frequency": 3
+  },
+  {
+    "keyword": "朋友",
+    "frequency": 3
+  },
+  {
+    "keyword": "洪明连麦",
+    "frequency": 3
+  },
+  {
+    "keyword": "人士",
+    "frequency": 3
+  },
+  {
+    "keyword": "媒体",
+    "frequency": 3
+  },
+  {
+    "keyword": "贸易",
+    "frequency": 3
+  },
+  {
+    "keyword": "廖女士",
+    "frequency": 3
+  },
+  {
+    "keyword": "网友们",
+    "frequency": 3
+  },
+  {
+    "keyword": "中方",
+    "frequency": 3
+  },
+  {
+    "keyword": "拘留室",
+    "frequency": 3
+  },
+  {
+    "keyword": "小区",
+    "frequency": 3
+  },
+  {
+    "keyword": "社会",
+    "frequency": 3
+  },
+  {
+    "keyword": "台军",
+    "frequency": 3
+  },
+  {
+    "keyword": "村民们",
+    "frequency": 3
+  },
+  {
+    "keyword": "投稿",
+    "frequency": 3
+  },
+  {
+    "keyword": "环卫工人",
+    "frequency": 3
+  },
+  {
+    "keyword": "甲方",
+    "frequency": 3
+  },
+  {
+    "keyword": "机器人",
+    "frequency": 3
+  },
+  {
+    "keyword": "粉红博主",
+    "frequency": 3
+  },
+  {
+    "keyword": "风险",
+    "frequency": 3
+  },
+  {
+    "keyword": "部门",
+    "frequency": 3
+  },
+  {
+    "keyword": "全球经济",
+    "frequency": 3
+  },
+  {
+    "keyword": "评论区",
+    "frequency": 3
+  },
+  {
+    "keyword": "办公室",
+    "frequency": 3
+  },
+  {
+    "keyword": "程度",
+    "frequency": 3
+  },
+  {
+    "keyword": "平台",
+    "frequency": 3
+  },
+  {
+    "keyword": "护栏",
+    "frequency": 3
+  },
+  {
+    "keyword": "法官",
+    "frequency": 3
+  },
+  {
+    "keyword": "案件",
+    "frequency": 3
+  },
+  {
+    "keyword": "城管",
+    "frequency": 3
+  },
+  {
+    "keyword": "工资",
+    "frequency": 3
+  },
+  {
+    "keyword": "老师",
+    "frequency": 3
+  },
+  {
+    "keyword": "情势",
+    "frequency": 3
+  },
+  {
+    "keyword": "金马",
+    "frequency": 3
+  },
+  {
+    "keyword": "保护主义",
+    "frequency": 3
+  },
+  {
+    "keyword": "中铁",
+    "frequency": 3
+  },
+  {
+    "keyword": "老头",
+    "frequency": 3
+  },
+  {
+    "keyword": "此事",
+    "frequency": 3
+  },
+  {
+    "keyword": "账号",
+    "frequency": 3
+  },
+  {
+    "keyword": "红旗",
+    "frequency": 3
+  },
+  {
+    "keyword": "演讲",
+    "frequency": 3
+  },
+  {
+    "keyword": "声音",
+    "frequency": 3
+  },
+  {
+    "keyword": "各国",
+    "frequency": 3
+  },
+  {
+    "keyword": "用户",
+    "frequency": 3
+  },
+  {
+    "keyword": "村民",
+    "frequency": 3
+  },
+  {
+    "keyword": "车企",
+    "frequency": 3
+  },
+  {
+    "keyword": "国人",
+    "frequency": 3
+  },
+  {
+    "keyword": "出路",
+    "frequency": 3
+  },
+  {
+    "keyword": "态度",
+    "frequency": 3
+  },
+  {
+    "keyword": "观点",
+    "frequency": 3
+  },
+  {
+    "keyword": "家里",
+    "frequency": 3
+  },
+  {
+    "keyword": "作者",
+    "frequency": 3
+  },
+  {
+    "keyword": "兵力",
+    "frequency": 3
+  },
+  {
+    "keyword": "生命",
+    "frequency": 3
+  },
+  {
+    "keyword": "说法",
+    "frequency": 3
+  },
+  {
+    "keyword": "做法",
+    "frequency": 3
+  },
+  {
+    "keyword": "赢家",
+    "frequency": 3
+  },
+  {
+    "keyword": "小额",
+    "frequency": 3
+  },
+  {
+    "keyword": "检方",
+    "frequency": 3
+  },
+  {
+    "keyword": "货物",
+    "frequency": 3
+  },
+  {
+    "keyword": "白虾",
+    "frequency": 3
+  },
+  {
+    "keyword": "饭菜",
+    "frequency": 3
+  },
+  {
+    "keyword": "附近",
+    "frequency": 3
+  },
+  {
+    "keyword": "理由",
+    "frequency": 3
+  },
+  {
+    "keyword": "摊贩",
+    "frequency": 3
+  },
+  {
+    "keyword": "熊小雅",
+    "frequency": 3
+  },
+  {
+    "keyword": "任务",
+    "frequency": 3
+  },
+  {
+    "keyword": "妻子",
+    "frequency": 3
+  },
+  {
+    "keyword": "购买力",
+    "frequency": 3
+  },
+  {
+    "keyword": "死者",
+    "frequency": 3
+  },
+  {
+    "keyword": "业主",
+    "frequency": 3
+  },
+  {
+    "keyword": "澎分署",
+    "frequency": 3
+  },
+  {
+    "keyword": "争议",
+    "frequency": 3
+  },
+  {
+    "keyword": "姜甲儒",
+    "frequency": 3
+  },
+  {
+    "keyword": "偶像",
+    "frequency": 3
+  },
+  {
+    "keyword": "原产",
+    "frequency": 3
+  },
+  {
+    "keyword": "简历",
+    "frequency": 3
+  },
+  {
+    "keyword": "断交",
+    "frequency": 3
+  },
+  {
+    "keyword": "邱世元",
+    "frequency": 3
+  },
+  {
+    "keyword": "粮食",
+    "frequency": 3
+  },
+  {
+    "keyword": "1989年",
+    "frequency": 3
+  },
+  {
+    "keyword": "2006年",
+    "frequency": 3
+  },
+  {
+    "keyword": "2026年",
+    "frequency": 3
+  },
+  {
+    "keyword": "1978年",
+    "frequency": 3
+  },
+  {
+    "keyword": "千元",
+    "frequency": 3
+  },
+  {
+    "keyword": "$500亿",
+    "frequency": 3
+  },
+  {
+    "keyword": "$2000亿",
+    "frequency": 3
+  },
+  {
+    "keyword": "$1120亿",
+    "frequency": 3
+  },
+  {
+    "keyword": "800美元",
+    "frequency": 3
+  },
+  {
+    "keyword": "5元",
+    "frequency": 3
+  },
+  {
+    "keyword": "300元",
+    "frequency": 3
+  },
+  {
+    "keyword": "5000亿美元",
+    "frequency": 3
+  },
+  {
+    "keyword": "6万元",
+    "frequency": 3
+  },
+  {
+    "keyword": "2万元",
+    "frequency": 3
+  },
+  {
+    "keyword": "300万元",
+    "frequency": 3
+  },
+  {
+    "keyword": "1500元",
+    "frequency": 3
+  },
+  {
+    "keyword": "1000元",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.89万亿元",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.99万亿元",
+    "frequency": 3
+  },
+  {
+    "keyword": "5 万",
+    "frequency": 3
+  },
+  {
+    "keyword": ",4",
+    "frequency": 3
+  },
+  {
+    "keyword": "，2024",
+    "frequency": 3
+  },
+  {
+    "keyword": "1k",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.89万",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.99万",
+    "frequency": 3
+  },
+  {
+    "keyword": "一百",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.89万亿",
+    "frequency": 3
+  },
+  {
+    "keyword": "11.99万亿",
+    "frequency": 3
+  }
+]

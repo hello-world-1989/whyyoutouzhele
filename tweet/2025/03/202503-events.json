@@ -1,0 +1,73 @@
+{
+  "date": "202503",
+  "data": [
+    {
+      "keyword": "事件",
+      "frequency": 3
+    },
+    {
+      "keyword": "会议",
+      "frequency": 2
+    },
+    {
+      "keyword": "内阁会议",
+      "frequency": 2
+    },
+    {
+      "keyword": "昆明火车站暴力恐怖袭击事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "杭州线下人才招聘会",
+      "frequency": 1
+    },
+    {
+      "keyword": "两会",
+      "frequency": 1
+    },
+    {
+      "keyword": "发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "俄安全会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "音乐会",
+      "frequency": 1
+    },
+    {
+      "keyword": "RT @China_Deviants: ✨ 活动宣传",
+      "frequency": 1
+    },
+    {
+      "keyword": "国会联席会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "马拉松赛事",
+      "frequency": 1
+    },
+    {
+      "keyword": "闭门会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "银行经营活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "联合国大会2758号决议",
+      "frequency": 1
+    },
+    {
+      "keyword": "会",
+      "frequency": 1
+    },
+    {
+      "keyword": "成人礼",
+      "frequency": 1
+    }
+  ]
+}
