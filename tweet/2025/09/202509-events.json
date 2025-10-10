@@ -1,0 +1,93 @@
+{
+  "date": "202509",
+  "data": [
+    {
+      "keyword": "事件",
+      "frequency": 3
+    },
+    {
+      "keyword": "活动",
+      "frequency": 3
+    },
+    {
+      "keyword": "行人事件",
+      "frequency": 2
+    },
+    {
+      "keyword": "交通事故",
+      "frequency": 2
+    },
+    {
+      "keyword": "九三阅兵",
+      "frequency": 2
+    },
+    {
+      "keyword": "楼活动",
+      "frequency": 2
+    },
+    {
+      "keyword": "福瑞达房地产公司涉建设工程合同纠纷案",
+      "frequency": 2
+    },
+    {
+      "keyword": "欠薪事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "记者发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "阅兵活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "中国人民抗日战争暨世界反法西斯战争胜利",
+      "frequency": 1
+    },
+    {
+      "keyword": "军事行动",
+      "frequency": 1
+    },
+    {
+      "keyword": "日本会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "拉锯战",
+      "frequency": 1
+    },
+    {
+      "keyword": "研究生开学典礼",
+      "frequency": 1
+    },
+    {
+      "keyword": "断网仪式",
+      "frequency": 1
+    },
+    {
+      "keyword": "现任部长会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "迎新晚会",
+      "frequency": 1
+    },
+    {
+      "keyword": "总裁选举",
+      "frequency": 1
+    },
+    {
+      "keyword": "风波",
+      "frequency": 1
+    }
+  ]
+}

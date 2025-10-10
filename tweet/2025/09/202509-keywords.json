@@ -1,0 +1,838 @@
+[
+  {
+    "keyword": "https://pbs.twimg.com/amplify",
+    "frequency": 216
+  },
+  {
+    "keyword": "网友",
+    "frequency": 139
+  },
+  {
+    "keyword": "学生",
+    "frequency": 57
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/G",
+    "frequency": 38
+  },
+  {
+    "keyword": "学校",
+    "frequency": 32
+  },
+  {
+    "keyword": "视频",
+    "frequency": 30
+  },
+  {
+    "keyword": "工人",
+    "frequency": 28
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/Gz",
+    "frequency": 22
+  },
+  {
+    "keyword": "工资",
+    "frequency": 22
+  },
+  {
+    "keyword": "阅兵",
+    "frequency": 20
+  },
+  {
+    "keyword": "村民",
+    "frequency": 19
+  },
+  {
+    "keyword": "评论区",
+    "frequency": 19
+  },
+  {
+    "keyword": "警察",
+    "frequency": 19
+  },
+  {
+    "keyword": "孩子",
+    "frequency": 17
+  },
+  {
+    "keyword": "家长",
+    "frequency": 15
+  },
+  {
+    "keyword": "日本",
+    "frequency": 14
+  },
+  {
+    "keyword": "10万",
+    "frequency": 14
+  },
+  {
+    "keyword": "老师",
+    "frequency": 13
+  },
+  {
+    "keyword": "老人",
+    "frequency": 12
+  },
+  {
+    "keyword": "政府",
+    "frequency": 11
+  },
+  {
+    "keyword": "总统",
+    "frequency": 11
+  },
+  {
+    "keyword": "内容",
+    "frequency": 11
+  },
+  {
+    "keyword": "警方",
+    "frequency": 11
+  },
+  {
+    "keyword": "医院",
+    "frequency": 11
+  },
+  {
+    "keyword": "现场",
+    "frequency": 10
+  },
+  {
+    "keyword": "国旗",
+    "frequency": 10
+  },
+  {
+    "keyword": "5000万",
+    "frequency": 10
+  },
+  {
+    "keyword": "员工",
+    "frequency": 9
+  },
+  {
+    "keyword": "小红书",
+    "frequency": 9
+  },
+  {
+    "keyword": "手机",
+    "frequency": 9
+  },
+  {
+    "keyword": "国家",
+    "frequency": 8
+  },
+  {
+    "keyword": "校方",
+    "frequency": 8
+  },
+  {
+    "keyword": "政策",
+    "frequency": 8
+  },
+  {
+    "keyword": "母亲",
+    "frequency": 8
+  },
+  {
+    "keyword": "女生",
+    "frequency": 8
+  },
+  {
+    "keyword": "宿舍",
+    "frequency": 8
+  },
+  {
+    "keyword": "2025年",
+    "frequency": 8
+  },
+  {
+    "keyword": "2024年",
+    "frequency": 8
+  },
+  {
+    "keyword": "3万",
+    "frequency": 8
+  },
+  {
+    "keyword": "问题",
+    "frequency": 7
+  },
+  {
+    "keyword": "年轻人",
+    "frequency": 7
+  },
+  {
+    "keyword": "学生们",
+    "frequency": 7
+  },
+  {
+    "keyword": "民众",
+    "frequency": 7
+  },
+  {
+    "keyword": "信息",
+    "frequency": 7
+  },
+  {
+    "keyword": "生活",
+    "frequency": 7
+  },
+  {
+    "keyword": "男子",
+    "frequency": 7
+  },
+  {
+    "keyword": "通告",
+    "frequency": 7
+  },
+  {
+    "keyword": "抗议者",
+    "frequency": 7
+  },
+  {
+    "keyword": "2023年",
+    "frequency": 7
+  },
+  {
+    "keyword": "2018年",
+    "frequency": 7
+  },
+  {
+    "keyword": "直播",
+    "frequency": 6
+  },
+  {
+    "keyword": "部门",
+    "frequency": 6
+  },
+  {
+    "keyword": "评论",
+    "frequency": 6
+  },
+  {
+    "keyword": "业主",
+    "frequency": 6
+  },
+  {
+    "keyword": "情况",
+    "frequency": 6
+  },
+  {
+    "keyword": "视频控诉",
+    "frequency": 6
+  },
+  {
+    "keyword": "办公室",
+    "frequency": 6
+  },
+  {
+    "keyword": "开发商",
+    "frequency": 6
+  },
+  {
+    "keyword": "方面",
+    "frequency": 6
+  },
+  {
+    "keyword": "女子",
+    "frequency": 6
+  },
+  {
+    "keyword": "10亿",
+    "frequency": 6
+  },
+  {
+    "keyword": "300万",
+    "frequency": 6
+  },
+  {
+    "keyword": "3000万",
+    "frequency": 6
+  },
+  {
+    "keyword": "7.65万",
+    "frequency": 6
+  },
+  {
+    "keyword": "百万",
+    "frequency": 6
+  },
+  {
+    "keyword": "十万",
+    "frequency": 6
+  },
+  {
+    "keyword": "中学",
+    "frequency": 5
+  },
+  {
+    "keyword": "广告",
+    "frequency": 5
+  },
+  {
+    "keyword": "消息",
+    "frequency": 5
+  },
+  {
+    "keyword": "领导人",
+    "frequency": 5
+  },
+  {
+    "keyword": "集体",
+    "frequency": 5
+  },
+  {
+    "keyword": "同学",
+    "frequency": 5
+  },
+  {
+    "keyword": "外卖",
+    "frequency": 5
+  },
+  {
+    "keyword": "标语",
+    "frequency": 5
+  },
+  {
+    "keyword": "帖子",
+    "frequency": 5
+  },
+  {
+    "keyword": "讨薪",
+    "frequency": 5
+  },
+  {
+    "keyword": "派出所",
+    "frequency": 5
+  },
+  {
+    "keyword": "原因",
+    "frequency": 5
+  },
+  {
+    "keyword": "法官",
+    "frequency": 5
+  },
+  {
+    "keyword": "法院",
+    "frequency": 5
+  },
+  {
+    "keyword": "女孩",
+    "frequency": 5
+  },
+  {
+    "keyword": "干部",
+    "frequency": 5
+  },
+  {
+    "keyword": "路边",
+    "frequency": 5
+  },
+  {
+    "keyword": "2000元",
+    "frequency": 5
+  },
+  {
+    "keyword": "千万",
+    "frequency": 5
+  },
+  {
+    "keyword": "二十",
+    "frequency": 5
+  },
+  {
+    "keyword": "十四",
+    "frequency": 5
+  },
+  {
+    "keyword": "公司",
+    "frequency": 4
+  },
+  {
+    "keyword": "外卖小哥",
+    "frequency": 4
+  },
+  {
+    "keyword": "外国人",
+    "frequency": 4
+  },
+  {
+    "keyword": "企业",
+    "frequency": 4
+  },
+  {
+    "keyword": "公告",
+    "frequency": 4
+  },
+  {
+    "keyword": "国内",
+    "frequency": 4
+  },
+  {
+    "keyword": "法律",
+    "frequency": 4
+  },
+  {
+    "keyword": "人民",
+    "frequency": 4
+  },
+  {
+    "keyword": "老兵",
+    "frequency": 4
+  },
+  {
+    "keyword": "中铁",
+    "frequency": 4
+  },
+  {
+    "keyword": "抖音",
+    "frequency": 4
+  },
+  {
+    "keyword": "校园",
+    "frequency": 4
+  },
+  {
+    "keyword": "横幅",
+    "frequency": 4
+  },
+  {
+    "keyword": "工作人员",
+    "frequency": 4
+  },
+  {
+    "keyword": "农田",
+    "frequency": 4
+  },
+  {
+    "keyword": "说法",
+    "frequency": 4
+  },
+  {
+    "keyword": "受害者",
+    "frequency": 4
+  },
+  {
+    "keyword": "抗战胜利",
+    "frequency": 4
+  },
+  {
+    "keyword": "过程",
+    "frequency": 4
+  },
+  {
+    "keyword": "网上",
+    "frequency": 4
+  },
+  {
+    "keyword": "街头",
+    "frequency": 4
+  },
+  {
+    "keyword": "微博",
+    "frequency": 4
+  },
+  {
+    "keyword": "用户",
+    "frequency": 4
+  },
+  {
+    "keyword": "态度",
+    "frequency": 4
+  },
+  {
+    "keyword": "画面",
+    "frequency": 4
+  },
+  {
+    "keyword": "报告",
+    "frequency": 4
+  },
+  {
+    "keyword": "地上",
+    "frequency": 4
+  },
+  {
+    "keyword": "血汗钱",
+    "frequency": 4
+  },
+  {
+    "keyword": "差别",
+    "frequency": 4
+  },
+  {
+    "keyword": "球迷",
+    "frequency": 4
+  },
+  {
+    "keyword": "角度",
+    "frequency": 4
+  },
+  {
+    "keyword": "2019年",
+    "frequency": 4
+  },
+  {
+    "keyword": "500元",
+    "frequency": 4
+  },
+  {
+    "keyword": "10万元",
+    "frequency": 4
+  },
+  {
+    "keyword": "23万",
+    "frequency": 4
+  },
+  {
+    "keyword": "200万",
+    "frequency": 4
+  },
+  {
+    "keyword": "75万",
+    "frequency": 4
+  },
+  {
+    "keyword": "4.5万",
+    "frequency": 4
+  },
+  {
+    "keyword": "50万",
+    "frequency": 4
+  },
+  {
+    "keyword": "中国",
+    "frequency": 3
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/G0",
+    "frequency": 3
+  },
+  {
+    "keyword": "媒体",
+    "frequency": 3
+  },
+  {
+    "keyword": "公安",
+    "frequency": 3
+  },
+  {
+    "keyword": "跳楼方式",
+    "frequency": 3
+  },
+  {
+    "keyword": "网友们",
+    "frequency": 3
+  },
+  {
+    "keyword": "教师",
+    "frequency": 3
+  },
+  {
+    "keyword": "家里",
+    "frequency": 3
+  },
+  {
+    "keyword": "当局",
+    "frequency": 3
+  },
+  {
+    "keyword": "社保",
+    "frequency": 3
+  },
+  {
+    "keyword": "控诉",
+    "frequency": 3
+  },
+  {
+    "keyword": "事件",
+    "frequency": 3
+  },
+  {
+    "keyword": "居民",
+    "frequency": 3
+  },
+  {
+    "keyword": "保安",
+    "frequency": 3
+  },
+  {
+    "keyword": "电话",
+    "frequency": 3
+  },
+  {
+    "keyword": "情况.",
+    "frequency": 3
+  },
+  {
+    "keyword": "前总理",
+    "frequency": 3
+  },
+  {
+    "keyword": "车辆",
+    "frequency": 3
+  },
+  {
+    "keyword": "账号",
+    "frequency": 3
+  },
+  {
+    "keyword": "电动车",
+    "frequency": 3
+  },
+  {
+    "keyword": "单位",
+    "frequency": 3
+  },
+  {
+    "keyword": "国企",
+    "frequency": 3
+  },
+  {
+    "keyword": "通知",
+    "frequency": 3
+  },
+  {
+    "keyword": "行人",
+    "frequency": 3
+  },
+  {
+    "keyword": "家庭",
+    "frequency": 3
+  },
+  {
+    "keyword": "专列",
+    "frequency": 3
+  },
+  {
+    "keyword": "人员",
+    "frequency": 3
+  },
+  {
+    "keyword": "门外",
+    "frequency": 3
+  },
+  {
+    "keyword": "互联网",
+    "frequency": 3
+  },
+  {
+    "keyword": "截图",
+    "frequency": 3
+  },
+  {
+    "keyword": "费用",
+    "frequency": 3
+  },
+  {
+    "keyword": "当地",
+    "frequency": 3
+  },
+  {
+    "keyword": "规模",
+    "frequency": 3
+  },
+  {
+    "keyword": "平台",
+    "frequency": 3
+  },
+  {
+    "keyword": "租金",
+    "frequency": 3
+  },
+  {
+    "keyword": "存款",
+    "frequency": 3
+  },
+  {
+    "keyword": "朋友",
+    "frequency": 3
+  },
+  {
+    "keyword": "年幼",
+    "frequency": 3
+  },
+  {
+    "keyword": "抖音账号",
+    "frequency": 3
+  },
+  {
+    "keyword": "女儿",
+    "frequency": 3
+  },
+  {
+    "keyword": "朋友圈",
+    "frequency": 3
+  },
+  {
+    "keyword": "儿童",
+    "frequency": 3
+  },
+  {
+    "keyword": "质疑",
+    "frequency": 3
+  },
+  {
+    "keyword": "言论",
+    "frequency": 3
+  },
+  {
+    "keyword": "模型",
+    "frequency": 3
+  },
+  {
+    "keyword": "家属",
+    "frequency": 3
+  },
+  {
+    "keyword": "残障人士",
+    "frequency": 3
+  },
+  {
+    "keyword": "校门口",
+    "frequency": 3
+  },
+  {
+    "keyword": "此事",
+    "frequency": 3
+  },
+  {
+    "keyword": "产品",
+    "frequency": 3
+  },
+  {
+    "keyword": "文章",
+    "frequency": 3
+  },
+  {
+    "keyword": "网民",
+    "frequency": 3
+  },
+  {
+    "keyword": "困境",
+    "frequency": 3
+  },
+  {
+    "keyword": "暴力",
+    "frequency": 3
+  },
+  {
+    "keyword": "操场",
+    "frequency": 3
+  },
+  {
+    "keyword": "话题",
+    "frequency": 3
+  },
+  {
+    "keyword": "飞机",
+    "frequency": 3
+  },
+  {
+    "keyword": "611Study ICU",
+    "frequency": 3
+  },
+  {
+    "keyword": "照片",
+    "frequency": 3
+  },
+  {
+    "keyword": "村书记",
+    "frequency": 3
+  },
+  {
+    "keyword": "雇员",
+    "frequency": 3
+  },
+  {
+    "keyword": "课桌",
+    "frequency": 3
+  },
+  {
+    "keyword": "理由",
+    "frequency": 3
+  },
+  {
+    "keyword": "HR",
+    "frequency": 3
+  },
+  {
+    "keyword": "妻子",
+    "frequency": 3
+  },
+  {
+    "keyword": "BBC",
+    "frequency": 3
+  },
+  {
+    "keyword": "退休金",
+    "frequency": 3
+  },
+  {
+    "keyword": "旗下",
+    "frequency": 3
+  },
+  {
+    "keyword": "鸽子",
+    "frequency": 3
+  },
+  {
+    "keyword": "争议",
+    "frequency": 3
+  },
+  {
+    "keyword": "椅子",
+    "frequency": 3
+  },
+  {
+    "keyword": "队长",
+    "frequency": 3
+  },
+  {
+    "keyword": "青年",
+    "frequency": 3
+  },
+  {
+    "keyword": "伙子",
+    "frequency": 3
+  },
+  {
+    "keyword": "砖厂",
+    "frequency": 3
+  },
+  {
+    "keyword": "灵魂",
+    "frequency": 3
+  },
+  {
+    "keyword": "3日",
+    "frequency": 3
+  },
+  {
+    "keyword": "2021年",
+    "frequency": 3
+  },
+  {
+    "keyword": "1000元",
+    "frequency": 3
+  },
+  {
+    "keyword": "十万元",
+    "frequency": 3
+  },
+  {
+    "keyword": "5000元",
+    "frequency": 3
+  },
+  {
+    "keyword": "十七",
+    "frequency": 3
+  },
+  {
+    "keyword": "十一",
+    "frequency": 3
+  }
+]
