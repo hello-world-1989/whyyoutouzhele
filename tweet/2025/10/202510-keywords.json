@@ -1,0 +1,762 @@
+[
+  {
+    "keyword": "https://pbs.twimg.com/amplify",
+    "frequency": 193
+  },
+  {
+    "keyword": "网友",
+    "frequency": 101
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/G2",
+    "frequency": 47
+  },
+  {
+    "keyword": "村民",
+    "frequency": 45
+  },
+  {
+    "keyword": "工人",
+    "frequency": 42
+  },
+  {
+    "keyword": "学生",
+    "frequency": 29
+  },
+  {
+    "keyword": "视频",
+    "frequency": 26
+  },
+  {
+    "keyword": "男子",
+    "frequency": 24
+  },
+  {
+    "keyword": "学校",
+    "frequency": 18
+  },
+  {
+    "keyword": "情况",
+    "frequency": 18
+  },
+  {
+    "keyword": "现场",
+    "frequency": 16
+  },
+  {
+    "keyword": "消息",
+    "frequency": 16
+  },
+  {
+    "keyword": "台风",
+    "frequency": 16
+  },
+  {
+    "keyword": "公司",
+    "frequency": 15
+  },
+  {
+    "keyword": "中学",
+    "frequency": 13
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/",
+    "frequency": 13
+  },
+  {
+    "keyword": "警方",
+    "frequency": 13
+  },
+  {
+    "keyword": "孩子",
+    "frequency": 13
+  },
+  {
+    "keyword": "http://611Study.ICU",
+    "frequency": 12
+  },
+  {
+    "keyword": "工资",
+    "frequency": 12
+  },
+  {
+    "keyword": "平台",
+    "frequency": 11
+  },
+  {
+    "keyword": "国内媒体",
+    "frequency": 11
+  },
+  {
+    "keyword": "2025年",
+    "frequency": 11
+  },
+  {
+    "keyword": "老板",
+    "frequency": 10
+  },
+  {
+    "keyword": "政府",
+    "frequency": 10
+  },
+  {
+    "keyword": "员工",
+    "frequency": 9
+  },
+  {
+    "keyword": "警察",
+    "frequency": 9
+  },
+  {
+    "keyword": "老师",
+    "frequency": 9
+  },
+  {
+    "keyword": "车辆",
+    "frequency": 9
+  },
+  {
+    "keyword": "十一",
+    "frequency": 9
+  },
+  {
+    "keyword": "二十",
+    "frequency": 9
+  },
+  {
+    "keyword": "女子",
+    "frequency": 8
+  },
+  {
+    "keyword": "日本",
+    "frequency": 8
+  },
+  {
+    "keyword": "医院",
+    "frequency": 8
+  },
+  {
+    "keyword": "媒体",
+    "frequency": 7
+  },
+  {
+    "keyword": "评论区",
+    "frequency": 7
+  },
+  {
+    "keyword": "门口",
+    "frequency": 7
+  },
+  {
+    "keyword": "人员",
+    "frequency": 7
+  },
+  {
+    "keyword": "用户",
+    "frequency": 7
+  },
+  {
+    "keyword": "洪水",
+    "frequency": 7
+  },
+  {
+    "keyword": "十五",
+    "frequency": 7
+  },
+  {
+    "keyword": "人民",
+    "frequency": 6
+  },
+  {
+    "keyword": "家属",
+    "frequency": 6
+  },
+  {
+    "keyword": "工作人员",
+    "frequency": 6
+  },
+  {
+    "keyword": "地区",
+    "frequency": 6
+  },
+  {
+    "keyword": "母亲",
+    "frequency": 6
+  },
+  {
+    "keyword": "K签证",
+    "frequency": 6
+  },
+  {
+    "keyword": "家长",
+    "frequency": 6
+  },
+  {
+    "keyword": "保安",
+    "frequency": 6
+  },
+  {
+    "keyword": "储户",
+    "frequency": 6
+  },
+  {
+    "keyword": "居民",
+    "frequency": 6
+  },
+  {
+    "keyword": "部门",
+    "frequency": 6
+  },
+  {
+    "keyword": "内容",
+    "frequency": 6
+  },
+  {
+    "keyword": "法院",
+    "frequency": 6
+  },
+  {
+    "keyword": "程序",
+    "frequency": 6
+  },
+  {
+    "keyword": "车主",
+    "frequency": 6
+  },
+  {
+    "keyword": "景区",
+    "frequency": 6
+  },
+  {
+    "keyword": "20万",
+    "frequency": 6
+  },
+  {
+    "keyword": "15万",
+    "frequency": 6
+  },
+  {
+    "keyword": "总统",
+    "frequency": 5
+  },
+  {
+    "keyword": "外交部",
+    "frequency": 5
+  },
+  {
+    "keyword": "当地",
+    "frequency": 5
+  },
+  {
+    "keyword": "问题",
+    "frequency": 5
+  },
+  {
+    "keyword": "共产党",
+    "frequency": 5
+  },
+  {
+    "keyword": "抗议者",
+    "frequency": 5
+  },
+  {
+    "keyword": "集体",
+    "frequency": 5
+  },
+  {
+    "keyword": "领导人",
+    "frequency": 5
+  },
+  {
+    "keyword": "讨薪",
+    "frequency": 5
+  },
+  {
+    "keyword": "手机",
+    "frequency": 5
+  },
+  {
+    "keyword": "通知",
+    "frequency": 5
+  },
+  {
+    "keyword": "门讨薪",
+    "frequency": 5
+  },
+  {
+    "keyword": "形式",
+    "frequency": 5
+  },
+  {
+    "keyword": "方法",
+    "frequency": 5
+  },
+  {
+    "keyword": "假发",
+    "frequency": 5
+  },
+  {
+    "keyword": "措施",
+    "frequency": 5
+  },
+  {
+    "keyword": "父亲",
+    "frequency": 5
+  },
+  {
+    "keyword": "父母",
+    "frequency": 5
+  },
+  {
+    "keyword": "当局",
+    "frequency": 4
+  },
+  {
+    "keyword": "言论",
+    "frequency": 4
+  },
+  {
+    "keyword": "河南村镇银行",
+    "frequency": 4
+  },
+  {
+    "keyword": "人民法院",
+    "frequency": 4
+  },
+  {
+    "keyword": "学生投稿",
+    "frequency": 4
+  },
+  {
+    "keyword": "福利",
+    "frequency": 4
+  },
+  {
+    "keyword": "事故",
+    "frequency": 4
+  },
+  {
+    "keyword": "儿子",
+    "frequency": 4
+  },
+  {
+    "keyword": "小米",
+    "frequency": 4
+  },
+  {
+    "keyword": "业主",
+    "frequency": 4
+  },
+  {
+    "keyword": "宿舍",
+    "frequency": 4
+  },
+  {
+    "keyword": "火灾",
+    "frequency": 4
+  },
+  {
+    "keyword": "解放军",
+    "frequency": 4
+  },
+  {
+    "keyword": "作品",
+    "frequency": 4
+  },
+  {
+    "keyword": "责任",
+    "frequency": 4
+  },
+  {
+    "keyword": "路人",
+    "frequency": 4
+  },
+  {
+    "keyword": "麦德姆",
+    "frequency": 4
+  },
+  {
+    "keyword": "Coser",
+    "frequency": 4
+  },
+  {
+    "keyword": "症状",
+    "frequency": 4
+  },
+  {
+    "keyword": "粉红",
+    "frequency": 4
+  },
+  {
+    "keyword": "校方",
+    "frequency": 4
+  },
+  {
+    "keyword": "主权",
+    "frequency": 4
+  },
+  {
+    "keyword": "附近",
+    "frequency": 4
+  },
+  {
+    "keyword": "游客",
+    "frequency": 4
+  },
+  {
+    "keyword": "数据",
+    "frequency": 4
+  },
+  {
+    "keyword": "方面",
+    "frequency": 4
+  },
+  {
+    "keyword": "损失",
+    "frequency": 4
+  },
+  {
+    "keyword": "力量",
+    "frequency": 4
+  },
+  {
+    "keyword": "船舶",
+    "frequency": 4
+  },
+  {
+    "keyword": "2024年",
+    "frequency": 4
+  },
+  {
+    "keyword": "10万",
+    "frequency": 4
+  },
+  {
+    "keyword": "，10",
+    "frequency": 4
+  },
+  {
+    "keyword": "5万",
+    "frequency": 4
+  },
+  {
+    "keyword": "1124万",
+    "frequency": 4
+  },
+  {
+    "keyword": "30万",
+    "frequency": 4
+  },
+  {
+    "keyword": "200万",
+    "frequency": 4
+  },
+  {
+    "keyword": "2万",
+    "frequency": 4
+  },
+  {
+    "keyword": "4万",
+    "frequency": 4
+  },
+  {
+    "keyword": "300万",
+    "frequency": 4
+  },
+  {
+    "keyword": "白银市",
+    "frequency": 3
+  },
+  {
+    "keyword": "https://pbs.twimg.com/media/G2V",
+    "frequency": 3
+  },
+  {
+    "keyword": "网络",
+    "frequency": 3
+  },
+  {
+    "keyword": "工作",
+    "frequency": 3
+  },
+  {
+    "keyword": "B站",
+    "frequency": 3
+  },
+  {
+    "keyword": "评论",
+    "frequency": 3
+  },
+  {
+    "keyword": "农民",
+    "frequency": 3
+  },
+  {
+    "keyword": "救护车",
+    "frequency": 3
+  },
+  {
+    "keyword": "微博",
+    "frequency": 3
+  },
+  {
+    "keyword": "画面",
+    "frequency": 3
+  },
+  {
+    "keyword": "龙港镇",
+    "frequency": 3
+  },
+  {
+    "keyword": "现场视频",
+    "frequency": 3
+  },
+  {
+    "keyword": "当地警察",
+    "frequency": 3
+  },
+  {
+    "keyword": "身份",
+    "frequency": 3
+  },
+  {
+    "keyword": "国家",
+    "frequency": 3
+  },
+  {
+    "keyword": "进展",
+    "frequency": 3
+  },
+  {
+    "keyword": "员工工资",
+    "frequency": 3
+  },
+  {
+    "keyword": "公务员",
+    "frequency": 3
+  },
+  {
+    "keyword": "校门口",
+    "frequency": 3
+  },
+  {
+    "keyword": "防疫",
+    "frequency": 3
+  },
+  {
+    "keyword": "西藏",
+    "frequency": 3
+  },
+  {
+    "keyword": "民众",
+    "frequency": 3
+  },
+  {
+    "keyword": "土地",
+    "frequency": 3
+  },
+  {
+    "keyword": "信息",
+    "frequency": 3
+  },
+  {
+    "keyword": "暴力",
+    "frequency": 3
+  },
+  {
+    "keyword": "身体",
+    "frequency": 3
+  },
+  {
+    "keyword": "公民",
+    "frequency": 3
+  },
+  {
+    "keyword": "官员",
+    "frequency": 3
+  },
+  {
+    "keyword": "百姓",
+    "frequency": 3
+  },
+  {
+    "keyword": "coser",
+    "frequency": 3
+  },
+  {
+    "keyword": "企业",
+    "frequency": 3
+  },
+  {
+    "keyword": "酒店",
+    "frequency": 3
+  },
+  {
+    "keyword": "此事",
+    "frequency": 3
+  },
+  {
+    "keyword": "嫌疑人",
+    "frequency": 3
+  },
+  {
+    "keyword": "建筑",
+    "frequency": 3
+  },
+  {
+    "keyword": "冲突",
+    "frequency": 3
+  },
+  {
+    "keyword": "城市",
+    "frequency": 3
+  },
+  {
+    "keyword": "法律",
+    "frequency": 3
+  },
+  {
+    "keyword": "协议",
+    "frequency": 3
+  },
+  {
+    "keyword": "过程",
+    "frequency": 3
+  },
+  {
+    "keyword": "影响",
+    "frequency": 3
+  },
+  {
+    "keyword": "汽车",
+    "frequency": 3
+  },
+  {
+    "keyword": "首都",
+    "frequency": 3
+  },
+  {
+    "keyword": "重点",
+    "frequency": 3
+  },
+  {
+    "keyword": "蒙古",
+    "frequency": 3
+  },
+  {
+    "keyword": "标语",
+    "frequency": 3
+  },
+  {
+    "keyword": "作业",
+    "frequency": 3
+  },
+  {
+    "keyword": "通告",
+    "frequency": 3
+  },
+  {
+    "keyword": "家人",
+    "frequency": 3
+  },
+  {
+    "keyword": "账户",
+    "frequency": 3
+  },
+  {
+    "keyword": "案件",
+    "frequency": 3
+  },
+  {
+    "keyword": "记者",
+    "frequency": 3
+  },
+  {
+    "keyword": "班级",
+    "frequency": 3
+  },
+  {
+    "keyword": "观众",
+    "frequency": 3
+  },
+  {
+    "keyword": "农田",
+    "frequency": 3
+  },
+  {
+    "keyword": "人行道",
+    "frequency": 3
+  },
+  {
+    "keyword": "旁边",
+    "frequency": 3
+  },
+  {
+    "keyword": "彩礼",
+    "frequency": 3
+  },
+  {
+    "keyword": "伤者",
+    "frequency": 3
+  },
+  {
+    "keyword": "王暖暖",
+    "frequency": 3
+  },
+  {
+    "keyword": "救生衣",
+    "frequency": 3
+  },
+  {
+    "keyword": "2019年",
+    "frequency": 3
+  },
+  {
+    "keyword": "27日",
+    "frequency": 3
+  },
+  {
+    "keyword": "2025 年",
+    "frequency": 3
+  },
+  {
+    "keyword": "2021年",
+    "frequency": 3
+  },
+  {
+    "keyword": "1000元",
+    "frequency": 3
+  },
+  {
+    "keyword": "2000元",
+    "frequency": 3
+  },
+  {
+    "keyword": "19.99元",
+    "frequency": 3
+  },
+  {
+    "keyword": "万元",
+    "frequency": 3
+  },
+  {
+    "keyword": "十九",
+    "frequency": 3
+  },
+  {
+    "keyword": "千万",
+    "frequency": 3
+  },
+  {
+    "keyword": "百亿",
+    "frequency": 3
+  },
+  {
+    "keyword": "百万",
+    "frequency": 3
+  },
+  {
+    "keyword": "两万",
+    "frequency": 3
+  }
+]
