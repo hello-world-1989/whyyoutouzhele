@@ -1,3 +1,7 @@
+wget -O 202602.zip https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202602/whyyoutouzhele.zip
+wget -O 202601.zip https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202601/whyyoutouzhele.zip
+
+
 wget -O 202512.zip https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202512/whyyoutouzhele.zip
 wget -O 202511.zip https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202511/whyyoutouzhele.zip
 wget -O 202510.zip https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202510/whyyoutouzhele.zip

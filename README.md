@@ -13,6 +13,13 @@ https://github.com/hello-world-1989/whyyoutouzhele/releases/
 
 ### views为查看数， likes为点赞数， replies为回复数， originVideos为X推特视频链接， 其中views likes replies数量未必准确， 随着时间推移， 会增加
 
+
+
+# [2026年2月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202602/whyyoutouzhele.zip)
+# [2026年1月份下载](https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202601/whyyoutouzhele.zip)
+
+
+
 <br />
 <br />
 <br />

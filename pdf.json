@@ -1,5 +1,19 @@
 [
   {
+    "id": 202602,
+    "year": 2026,
+    "description": "202602",
+    "link1": "/download-pdf/202602/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202602/whyyoutouzhele.zip"
+  },
+  {
+    "id": 202601,
+    "year": 2026,
+    "description": "202601",
+    "link1": "/download-pdf/202601/whyyoutouzhele.zip",
+    "link2": "https://github.com/hello-world-1989/whyyoutouzhele/releases/download/202601/whyyoutouzhele.zip"
+  },
+  {
     "id": 202512,
     "year": 2025,
     "description": "202512",
